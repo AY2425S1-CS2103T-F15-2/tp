@@ -123,7 +123,7 @@
         "adding-a-module-to-a-person-module": "Adding a module to a person: module",
         "editing-a-person-edit": "Editing a person : edit",
         "adding-a-grade-grade": "Adding a grade : grade",
-        "listing-person-by-certain-attributes-filter": "Listing person by certain attributes : filter",
+        "listing-persons-by-certain-attributes-filter": "Listing persons by certain attributes : filter",
         "deleting-a-person-module-delete": "Deleting a person/module : delete",
         "finding-a-person-find": "Finding a person : find",
         "clearing-all-entries-clear": "Clearing all entries : clear",
