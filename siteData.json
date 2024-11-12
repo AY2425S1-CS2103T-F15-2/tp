@@ -53,7 +53,6 @@
         "implementation": "Implementation",
         "module-feature": "Module feature",
         "grade-feature": "Grade feature",
-        "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -63,7 +62,7 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-person": "Deleting a person",
+        "commands-testing": "Commands Testing",
         "saving-data": "Saving data",
         "appendix-effort": "Appendix: Effort",
         "achievements": "Achievements",
@@ -71,9 +70,9 @@
         "challenges-faced": "Challenges Faced",
         "difficulty-level": "Difficulty Level",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements",
-        "data-archiving": "Data archiving",
-        "importing-contact-data": "Importing contact data",
-        "exporting-contact-data": "Exporting contact data"
+        "known-issues": "Known Issues",
+        "current-feature-flaws": "Current Feature Flaws",
+        "new-features": "New Features"
       },
       "headingKeywords": {}
     },
