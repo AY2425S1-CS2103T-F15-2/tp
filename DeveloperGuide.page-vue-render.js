@@ -641,7 +641,7 @@ with(this){return _c('p',[_c('strong',[_v("Justification for Deferral:")])])}
 with(this){return _c('ul',[_c('li',[_v("The current generic error messages fulfill their basic purpose, ensuring that invalid commands are rejected.")]),_v(" "),_c('li',[_v("Implementing fine-grained validation and error reporting for duplicate IDs requires significant effort, including modifying command parsing logic.")]),_v(" "),_c('li',[_v("Addressing this issue in a future iteration, when core features are complete and stable, avoids unnecessary rework of error-handling logic.")])])}
 },function anonymous(
 ) {
-with(this){return _c('h4',{attrs:{"id":"3-address-help-command-popup-window-stability-issue"}},[_v("3. Address "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")]),_v(" Command Popup Window Stability Issue"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#3-address-help-command-popup-window-stability-issue","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h4',{attrs:{"id":"3-address-help-command-popup-window-stability-issue"}},[_v("3. Address help Command Popup Window Stability Issue"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#3-address-help-command-popup-window-stability-issue","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Known Issue:")]),_v(" On certain platforms (notably MacOS), running the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")]),_v(" command and closing the popup window repeatedly in quick succession while in full screen can cause the application to hang or crash.")])}
@@ -812,6 +812,6 @@ with(this){return _c('h4',{attrs:{"id":"exporting-contact-data"}},[_v("Exporting
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Description:")]),_v(" Allow users to export contact data to multiple formats (e.g. CSV, vCard)")]),_v(" "),_c('li',[_c('strong',[_v("Benefits:")]),_v(" "),_c('ul',[_c('li',[_v("Allow users to easily transfer their contact information to other applications or storage solutions.")]),_v(" "),_c('li',[_v("Provide users with the ability to create backups of their contact data.")]),_v(" "),_c('li',[_v("Enable users to share their contact lists with others.")]),_v(" "),_c('li',[_v("Allow users to organize and manipulate their contact data externally.")]),_v(" "),_c('li',[_v("Help users comply with data export regulations or organizational policies.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 13:38:51 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 13:48:04 GMT+8]")])])])}
 }];
   
